@@ -84,8 +84,8 @@ Mechanical Engineering student at UCLA, transferring in with a 4.0. I build thin
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=6b5d4a&text_color=5c4d3c&icon_color=bfae90&bg_color=f5efe6" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&title_color=6b5d4a&text_color=5c4d3c&bg_color=f5efe6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bryanph4m&show_icons=true&hide_border=true&title_color=6b5d4a&text_color=5c4d3c&icon_color=bfae90&bg_color=f5efe6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanph4m&layout=compact&hide_border=true&title_color=6b5d4a&text_color=5c4d3c&bg_color=f5efe6" />
 
 </div>
 
