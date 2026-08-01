@@ -1,101 +1,41 @@
-<div align="center">
+<h1 align="center">Bryan Pham</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4c5a9,100:e8dcc4&height=200&section=header&text=Bryan%20Pham&fontColor=5c4d3c&fontSize=60&fontAlignY=38&desc=Mechanical%20Engineer%20%7C%20Builder%20%7C%20Founder&descAlignY=58&descSize=18&descColor=6b5d4a" width="100%"/>
+<p align="center">
+  Mechanical Engineering @ UCLA · Builder across hardware and software
+</p>
 
-</div>
+<p align="center">
+  <a href="https://bryan-pham-portfolio.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/bryan-pham2028">LinkedIn</a> ·
+  <a href="mailto:bryanpham2024@gmail.com">Email</a>
+</p>
 
-<div align="center">
+## About
 
-![Mechanical Engineering](https://img.shields.io/badge/Mechanical_Engineering-d4c5a9?style=for-the-badge&logoColor=5c4d3c&labelColor=e8dcc4)
-![UCLA](https://img.shields.io/badge/UCLA-c9b896?style=for-the-badge&logoColor=5c4d3c&labelColor=e8dcc4)
-![GPA 4.0](https://img.shields.io/badge/GPA_4.0-d4c5a9?style=for-the-badge&logoColor=5c4d3c&labelColor=e8dcc4)
+I'm a UCLA mechanical engineering student (transfer GPA: 4.0) building at the intersection of physical systems and software—from active-control rockets and autonomous drones to computer vision and AI agents.
 
-</div>
+I currently work as a Design & Manufacturing Engineering Intern at Mission College, where I design and validate high-powered rocket systems using CAD, CFD, custom avionics, and embedded controls.
 
-<br/>
+## Featured work
 
-<div align="center">
-<table>
-<tr>
-<td>
+- [**Night Shift**](https://github.com/bryanph4m/NightShift) — Multi-agent incident response that preserves real per-user GitHub permissions, hands fixes between authorized agents, and escalates when human judgment is required. Built for the ScaleKit × MeetStream Agents in Production Hackathon.
+- [**Engineer's Desk**](https://github.com/bryanph4m/Engineering-Portfolio) — My portfolio as an interactive 3D mechanical engineer's drafting desk, with a recruiter-friendly encyclopedia view. Built with React, React Three Fiber, Zustand, and Vite. [View it live.](https://bryan-pham-portfolio.vercel.app/)
+- [**Recco**](https://github.com/bryanph4m/Recco) — Camera-first iOS networking assistant combining SwiftUI, AVFoundation, Apple Vision face tracking, cloud identity lookup, and voice control. Built at the Y Combinator AI Growth Hackathon.
+- **RollAway** — Map-first location intelligence and permit planning for San Francisco mobile food vendors. Built with React, TypeScript, FastAPI, and DigitalOcean; winner of the Beginner Track at an MLH × DigitalOcean Hackathon.
+- [**Aside AI**](https://github.com/bryanph4m/AsideAI) — Clip-on camera and microphone that narrates the user's surroundings through selectable AI personalities in 1–2 seconds. Winner of the Deepgram Track at the UC Berkeley AI Hackathon.
+- **Mission Launch Rocketry** — Founded and led a 52-member college rocketry club developing two-stage, dual-deployment high-power rockets, custom avionics, and active tilt/roll control.
+- **Camera Tracking Drone** — Sub-250 g autonomous tracking drone with a CUDA-accelerated YOLO11n and ByteTrack pipeline, click-to-select targeting, typed configuration, and pytest coverage.
 
-### About
+## Tools I use
 
-Mechanical Engineering student at UCLA, transferring in with a 4.0. I build things across hardware and software, from high-powered rockets with active control systems to AI wearables. Co-founder and founding engineer at Aria AI. Always shipping.
+**Languages:** C, C++, Python, TypeScript, JavaScript, MATLAB, Swift, HTML/CSS
 
-</td>
-</tr>
-</table>
-</div>
+**Engineering:** SolidWorks, Onshape, AutoCAD, Fusion 360, MecAgent, Zoo.dev, SimScale, PSpice, LTspice, 3D printing, soldering, microcontrollers, oscilloscopes, and function generators
 
-<br/>
+**Software & platforms:** React, React Native, SwiftUI, FastAPI, Redis, Convex, Mapbox, QNX, Raspberry Pi, ESP32, GitHub Actions, Claude Code, Codex, and Cursor
 
-## Currently Building
+## Contact
 
-<div align="center">
-
-| Project | What it is |
-|---------|-----------|
-| **Aria AI** | Clip-on camera and mic that narrates your surroundings in real time through swappable AI personalities. 1st place DeepGram Track at the Berkeley AI Hackathon. |
-| **Mission Launch Rocketry** | Founded and led a 52-member college rocketry club. Two-stage high-power rockets with dual-deployment recovery and custom avionics. |
-
-</div>
-
-<br/>
-
-## Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-c9b896?style=flat-square&logo=cplusplus&logoColor=5c4d3c&labelColor=e8dcc4)
-![Python](https://img.shields.io/badge/Python-c9b896?style=flat-square&logo=python&logoColor=5c4d3c&labelColor=e8dcc4)
-![MATLAB](https://img.shields.io/badge/MATLAB-c9b896?style=flat-square&logo=mathworks&logoColor=5c4d3c&labelColor=e8dcc4)
-![Rust](https://img.shields.io/badge/Rust-c9b896?style=flat-square&logo=rust&logoColor=5c4d3c&labelColor=e8dcc4)
-![JavaScript](https://img.shields.io/badge/JavaScript-c9b896?style=flat-square&logo=javascript&logoColor=5c4d3c&labelColor=e8dcc4)
-![C](https://img.shields.io/badge/C-c9b896?style=flat-square&logo=c&logoColor=5c4d3c&labelColor=e8dcc4)
-![SQL](https://img.shields.io/badge/SQL-c9b896?style=flat-square&logo=postgresql&logoColor=5c4d3c&labelColor=e8dcc4)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-c9b896?style=flat-square&logo=html5&logoColor=5c4d3c&labelColor=e8dcc4)
-
-**CAD & Design**
-
-![SolidWorks](https://img.shields.io/badge/SolidWorks-d4c5a9?style=flat-square&logo=dassaultsystemes&logoColor=5c4d3c&labelColor=e8dcc4)
-![Onshape](https://img.shields.io/badge/Onshape-d4c5a9?style=flat-square&logoColor=5c4d3c&labelColor=e8dcc4)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-d4c5a9?style=flat-square&logo=autodesk&logoColor=5c4d3c&labelColor=e8dcc4)
-![Fusion360](https://img.shields.io/badge/Fusion360-d4c5a9?style=flat-square&logo=autodesk&logoColor=5c4d3c&labelColor=e8dcc4)
-![Revit](https://img.shields.io/badge/Revit-d4c5a9?style=flat-square&logo=autodesk&logoColor=5c4d3c&labelColor=e8dcc4)
-
-**Tools & Lab**
-
-![3D Printing](https://img.shields.io/badge/3D_Printing-bfae90?style=flat-square&logoColor=5c4d3c&labelColor=e8dcc4)
-![QNX](https://img.shields.io/badge/QNX-bfae90?style=flat-square&logoColor=5c4d3c&labelColor=e8dcc4)
-![SimScale](https://img.shields.io/badge/SimScale-bfae90?style=flat-square&logoColor=5c4d3c&labelColor=e8dcc4)
-![LTSpice](https://img.shields.io/badge/LTSpice-bfae90?style=flat-square&logoColor=5c4d3c&labelColor=e8dcc4)
-![Soldering](https://img.shields.io/badge/Soldering-bfae90?style=flat-square&logoColor=5c4d3c&labelColor=e8dcc4)
-![Microcontrollers](https://img.shields.io/badge/Microcontrollers-bfae90?style=flat-square&logoColor=5c4d3c&labelColor=e8dcc4)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-bfae90?style=flat-square&logoColor=5c4d3c&labelColor=e8dcc4)
-
-</div>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bryanph4m&show_icons=true&hide_border=true&title_color=6b5d4a&text_color=5c4d3c&icon_color=bfae90&bg_color=f5efe6" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanph4m&layout=compact&hide_border=true&title_color=6b5d4a&text_color=5c4d3c&bg_color=f5efe6" />
-
-</div>
-
-<br/>
-
-## Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-c9b896?style=for-the-badge&logo=linkedin&logoColor=5c4d3c&labelColor=e8dcc4)](https://www.linkedin.com/in/bryan-pham2028)
-[![Email](https://img.shields.io/badge/Email-c9b896?style=for-the-badge&logo=gmail&logoColor=5c4d3c&labelColor=e8dcc4)](mailto:bryanpham2024@gmail.com)
-
-... (7 lines left)
+- [Portfolio](https://bryan-pham-portfolio.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/bryan-pham2028)
+- [bryanpham2024@gmail.com](mailto:bryanpham2024@gmail.com)
