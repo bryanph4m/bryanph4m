@@ -80,8 +80,6 @@ I care about taking ambitious ideas from CAD and simulation through fabrication,
   <img src="./profile/top-langs.svg" alt="Bryan Pham's most used languages" height="180" />
 </p>
 
-These cards refresh automatically every day through GitHub Actions.
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B6F47&height=2" width="100%" alt="" />
 
 <p align="center">
