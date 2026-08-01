@@ -27,10 +27,14 @@ I care about taking ambitious ideas from CAD and simulation through fabrication,
 
 ## Achievements
 
-**2x Hackathon Awards**
+**4x Hackathon Awards**
 
+- **1st Place, MeetStream Track** - ScaleKit x MeetStream Agents in Production Hackathon - [NightShift](https://github.com/bryanph4m/NightShift), permission-aware AI agents that coordinate incident response using real per-user GitHub access.
+- **2nd Place Overall** - ScaleKit x MeetStream Agents in Production Hackathon - [NightShift](https://github.com/bryanph4m/NightShift).
 - **1st Place, Deepgram Track** - UC Berkeley AI Hackathon - [Aside AI](https://github.com/bryanph4m/AsideAI), a real-time AI wearable with selectable narration personalities.
 - **1st Place, Beginner Track** - MLH x DigitalOcean Hackathon - **RollAway**, location intelligence and permit planning for San Francisco mobile food vendors.
+
+**Selected:** Deepgram Startup Program ([Aria AI](https://github.com/bryanph4m/AsideAI))
 
 <!-- Add future wins above this line using the same format. -->
 
